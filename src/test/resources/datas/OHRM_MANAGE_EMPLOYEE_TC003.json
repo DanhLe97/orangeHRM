@@ -1,0 +1,15 @@
+{
+  "valid_account": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "employee": {
+    "firstName": "test_firstName",
+    "midName": "test_midName",
+    "lastName": "test_lastName",
+    "password": ""
+  },
+  "PIMMenuItem": "PIM",
+  "displayFieldGroup": "Personal",
+  "displayField": "Employee Id"
+}

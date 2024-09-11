@@ -1,0 +1,12 @@
+{
+  "chrome": {
+    "lblLeftMenu": "//div/aside//span[text()='%s']",
+    "btnDropdown": "//label[text()='%s']/parent::div/following-sibling::div/div",
+    "optionDropdown": "//span[text()='%s']",
+    "btnSaveCustomFields": "//div[@class='orangehrm-custom-fields']//button[@type='submit'][normalize-space()='Save']",
+    "btnSavePersonalDetails": "//div[@class='orangehrm-horizontal-padding orangehrm-vertical-padding']//button[@type='submit'][normalize-space()='Save']",
+    "messageSuccess": "//div[contains(@class, 'oxd-toast--success')]"
+  },
+  "firefox": {
+  }
+}

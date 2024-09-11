@@ -1,0 +1,13 @@
+{
+  "valid_account": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "PIMMenuItem": "PIM",
+  "MyInfoMenuItem": "My Info",
+  "nationalityDropdown": "Nationality",
+  "optionNationality": "Vietnamese",
+  "greenColor": "rgba(52, 188, 64, 1)",
+  "bloodTypeDropdown": "Blood Type",
+  "optionBloodType": "A+"
+}

@@ -1,0 +1,15 @@
+{
+  "chrome": {
+    "dynamicLeaveMenu": "//ul//li/a[text()='%s']",
+    "txtEmployeeName": "//label[contains(.,'Employee Name')]/ancestor::div[contains(@class,'oxd-input-group')]//input",
+    "inputFromDate": "//label[contains(text(),'From Date')]/parent::div//following-sibling::div//input",
+    "inputToDate": "//label[contains(text(),'To Date')]/parent::div//following-sibling::div//input",
+    "dynamicDropdownAssignLeave": "//label[text()='%s']/parent::div//following-sibling::div",
+    "btnAssign": "//div[contains(@class,'oxd-form-actions')]//button[@type='submit']",
+	"dynamicSuggestUserName": "//div[@role='listbox']//span[contains(text(),'%s')]",
+	"dynamicDropdownSelection": "//div[@role='listbox']//span[contains(text(),'%s')]",
+	"lblToDate": "//label[text()='To Date']"
+  },
+  "firefox": {
+  }
+}

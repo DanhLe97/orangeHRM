@@ -1,0 +1,16 @@
+{
+  "chrome": {
+    "PIMHeaderItem": "//header//li/a[text()='%s']",
+    "btnAddReport": "//div[@class='oxd-layout-context']//button[@type=\"button\"][text()=' Add ']",
+    "txtReportName": "//div/label[text()='Report Name']/parent::div/following-sibling::div/input",
+    "btnOpenDropdownList": "//div/label[text()='%s']/parent::div/following-sibling::div//i",
+    "btnDisplayField": "//label[text()='%s']/parent::div/following-sibling::div//div[text()='%s']",
+    "btnDisplayFieldJS": "//label[text()='%s']/parent::div/following-sibling::div//div/span[text()='%s']",
+    "btnPlus": "//h6[text()='Display Fields']/parent::div//button/i[@class='oxd-icon bi-plus']",
+    "btnSave": "//button[@type='submit'][text()=' Save ']",
+    "lblReportName": "//h6[contains(@class,'orangehrm-main-title')][normalize-space() != ''][normalize-space() != 'Add Report']"
+  },
+  "firefox": {
+
+  }
+}

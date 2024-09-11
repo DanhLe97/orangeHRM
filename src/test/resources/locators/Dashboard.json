@@ -1,0 +1,8 @@
+{
+  "chrome": {
+    "lblDashboard": "//div/header//span/h6[text()='Dashboard']"
+  },
+  "firefox": {
+    "lblDashboard": "//div/header//span/h6[text()='Dashboard']"
+  }
+}

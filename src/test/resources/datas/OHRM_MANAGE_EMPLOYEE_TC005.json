@@ -1,0 +1,9 @@
+{
+  "valid_account": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "PIMMenuItem": "PIM",
+  "numberOfEmployee": "2",
+  "expectedSearchResultLabel": "No Records Found"
+}

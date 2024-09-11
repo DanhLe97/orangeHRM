@@ -1,0 +1,19 @@
+{
+  "valid_account": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "leaveMenuItem": "Leave",
+  "PIMMenuItem": "PIM",
+  "leaveType": "CAN - Bereavement",
+  "numberOfEmployee": "1",
+  "assignLeave": "Assign Leave",
+  "expectedSearchResultLabel": "No Records Found",
+  "partialDay": "Start and End Day",
+  "startDay": "Half Day - Morning",
+  "endDay": "Specify Time",
+  "fromTime": "04:00 PM",
+  "toTime": "04:00 PM",
+  "numberOfDayLeave": "2"
+  
+}

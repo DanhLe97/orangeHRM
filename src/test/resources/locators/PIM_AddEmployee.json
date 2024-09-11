@@ -1,0 +1,16 @@
+{
+  "chrome": {
+    "PIMHeaderItem": "//header//li/a[text()='%s']",
+    "btnAdd": "//div[@class='orangehrm-header-container']//button",
+    "btnAddNewEmployee": "//div[@class='orangehrm-header-container']//button",
+    "txtEmployeeName": "//div/input[@name='%s']",
+    "txtEmployeeId": "//div//label[text()='Employee Id']/parent::div/following-sibling::div/input",
+    "btnCreateLoginDetails": "//span[@class='oxd-switch-input oxd-switch-input--active --label-right']",
+    "txtLoginDetails": "//label[text()='%s']/ancestor::div/following-sibling::div/input",
+    "btnSave": "//div[@class='oxd-form-actions']/button[@type='submit']",
+    "dynamicPIMTab": "//ul//a[starts-with(.,'%s')]"
+  },
+  "firefox": {
+
+  }
+}

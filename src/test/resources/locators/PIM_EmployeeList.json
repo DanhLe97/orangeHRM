@@ -1,0 +1,23 @@
+{
+  "chrome": {
+    "PIMHeaderItem": "//header//li/a[text()='%s']",
+    "lblPersonalDetails": "//h6[@class='oxd-text oxd-text--h6 orangehrm-main-title' and text()='Personal Details']",
+    "lblEmployeeName": "//div[@class='orangehrm-edit-employee-name']/h6[normalize-space() != '']",
+
+    "txtInputEmployeeInformation": "//label[text()='%s']/parent::div/following-sibling::div/input",
+    "ddlInputEmployeeInformation": "//label[text()='%s']/parent::div/following-sibling::div//div[text()='']",
+    "btnInputEmployeeInformation": "//div[@class='oxd-table-filter-area']//div/button[text()='%s']",
+    "dataByColumnName": "//div[@class='oxd-table-cell oxd-padding-cell'][count(//div[text()='%s']//preceding-sibling::div)+1]",
+    "btnAction": "//button[@type='button'][text()='%s']",
+
+    "dynamicUserCheckbox": "//div[text()='%s']/ancestor::div[contains(@class,'oxd-padding-cell')]/preceding-sibling::div",
+    "btnDeleteSelected": "//button[contains(.,'Delete Selected')]",
+    "btnConfirmDelete": "//button[contains(.,'Yes, Delete')]",
+    "txtSearchEmployeeID": "//form//input[contains(@class,'oxd-input--active')]",
+    "btnSearch" : "//button[contains(.,'Search')]",
+    "lblSearchResult": "//div[@role='table']/parent::div/preceding-sibling::div//span[@class='oxd-text oxd-text--span']"
+  },
+  "firefox": {
+
+  }
+}

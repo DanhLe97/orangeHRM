@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <properties>
+        <property name="basePath">./logs</property>
+    </properties>
+    <Appenders>
+        <console name="Console">
+            <patternlayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5level %msg%n"> </patternlayout>
+        </console>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>

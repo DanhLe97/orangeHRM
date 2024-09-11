@@ -1,0 +1,10 @@
+{
+  "chrome": {
+    "txtInput": "//input[@name='%s']",
+    "btnLogin": "//button[starts-with(@type,'submit')]"
+  },
+  "firefox": {
+    "txtInput": "//input[@name='%s']",
+    "btnLogin": "//button[starts-with(@type,'submit')]"
+  }
+}

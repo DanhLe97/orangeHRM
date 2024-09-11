@@ -1,0 +1,9 @@
+{
+  "chrome": {
+    "lblLeftMenu": "//div/aside//span[text()='%s']",
+    "lblUserProfile": "//span[@class='oxd-userdropdown-tab']",
+    "btnLogout": "//ul[@class='oxd-dropdown-menu']//li/a[contains(text(),'Logout')]"
+  },
+  "firefox": {
+  }
+}
